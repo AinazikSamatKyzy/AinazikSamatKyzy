@@ -29,7 +29,7 @@ AI 서비스 연동부터 고성능 백엔드 구축, Kubernetes 기반의 클�
 
 ### 🚀 대표 프로젝트 (Featured Project)
 
-* **[ai-k8s-cloud-pipeline](https://github.com/airgedon/ai-k8s-cloud-pipeline)** — AI 서비스 연동 및 Kubernetes 자동 배포 파이프라인 구축
+* **[rag-study-assistant](https://github.com/AinazikSamatKyzy/rag-study-assistant)** — RAG Study Assistant: Local LLM Q&A over Lecture Slides
 
 ---
 
